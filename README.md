@@ -59,7 +59,7 @@ GigFlow is a full-stack freelance marketplace web application where clients can 
 ## 📂 Project Structure
 
 gigflow/
-│
+|
 ├── backend/
 │ ├── src/
 │ ├── package.json
