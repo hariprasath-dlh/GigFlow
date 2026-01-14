@@ -112,6 +112,3 @@ Create a .env file in the backend directory using the following template:
     *Real-time in-app notification
     *Email notification
 
-🌐 Live Demo:
-  Frontend: gigflow-git-main-23ad047-2318s-projects.vercel.app
-  Backend: https://gigflow-backend-ciae.onrender.com
